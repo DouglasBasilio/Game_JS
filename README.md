@@ -1,5 +1,7 @@
 # Alura Imersão JavaScript Game Dev
 
+Link do jogo : https://editor.p5js.org/DouglasBasilio/full/-IBo3O1A5
+
 Nesta imersão aprendi a criar um jogo com animações 2D, trilha sonora, com cenário, tela inicial, placar, vidas e "Game Over".
 
 A linguagem utilizada para este jogo foi o JavaScript e o editor p5.js (https://editor.p5js.org/)
