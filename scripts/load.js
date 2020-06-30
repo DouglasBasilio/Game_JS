@@ -1,0 +1,19 @@
+function preload() {
+  //imagemCenario = loadImage('imagens/cenario/floresta.png');
+  imagemCenario = loadImage('imagens/cenario/montanhas.jpg');
+  //imagemCenario = loadImage('imagens/cenario/japao.jpg');
+  imagemCenarioParallax = loadImage('imagens/cenario/japao_parallax.png');
+  imagemPersonagem = loadImage('imagens/personagem/correndo.png');
+  imagemInimigo = loadImage('imagens/inimigos/gotinha.png');
+  imagemInimigoGrande = loadImage('imagens/inimigos/troll.png');
+  imagemInimigoVoador = loadImage('imagens/inimigos/gotinha-voadora.png');
+  imagemTelaInicial = loadImage('imagens/assets/telaInicial.png');
+  imagemVida = loadImage('imagens/assets/coracao.png');
+  fonteTelaInicial = loadFont('imagens/assets/fonteTelaInicial.otf');
+  imagemGameOver = loadImage('imagens/assets/game-over.png');
+  fita = loadJSON('fita/fita.json');
+  somDoJogo = loadSound('sons/trilha_jogo.mp3');
+  somDoPulo = loadSound('sons/somPulo.mp3');
+  somPerdeVida = loadSound('sons/perdeVida.mp3');
+  somGameOver = loadSound('sons/gameOver.mp3');
+}
