@@ -17,7 +17,7 @@ Do padrão aplicado em curso, tomei a liberdade para aplicar algumas melhorias, 
 - troca de cenário (utilizei duas imagens para montar o efeito parallaxe)
 - coloquei um som de quando perde uma vida, assim como um som diferente para o game over.
 - alterei a forma de como os inimigos aparecem na tela, sua sequência e velocidade.
-- ao perder o jogo, é possível reinici-lo sem a necessidade de atualizar a página.
+- ao perder o jogo, é possível reinicia-lo sem a necessidade de atualizar a página.
 
 Como melhorias, pretendo, além de trocar os personagens e inimigos:
 - colocar uma opção para o persogem obter vida extra
