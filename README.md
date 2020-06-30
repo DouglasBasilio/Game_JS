@@ -21,7 +21,7 @@ Do padrão aplicado em curso, tomei a liberdade para aplicar algumas melhorias, 
 
 Como melhorias, pretendo, além de trocar os personagens e inimigos:
 - colocar uma opção para o persogem obter vida extra
--a troca de cenários (fases)
+- a troca de cenários (fases)
 - Na tela inicial colocar uma uma observação de qual tecla precisa apertar para o personagem saltar 
 - e caso atinja um número X de pontos, o jogo encerrar com uma tela de vitória.
 
